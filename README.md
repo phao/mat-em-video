@@ -8,9 +8,14 @@
 - Adrian Banner
   - Princeton, Spring 2008
   - https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp
+- Coding the Matrix
+  - https://www.youtube.com/playlist?list=PLEhMEyM9jSinRHXJgRCOLZUiu9847V2g0
 - Jorge Passamani Zubelli
   - Curso de IC do IMPA.
     - https://www.youtube.com/playlist?list=PLo4jXE-LdDTSE0DFoq4es_iMvjlCeG8pP
+- UTAustinX
+  - edX
+  - https://learning.edx.org/course/course-v1:UTAustinX+UT.ALA+2T2020/home
 
 # Análise Abstrata (Fourier, Medida, Funcional, etc)
 
@@ -29,6 +34,13 @@
 - André Nachbin
   - Curso de Mestrado no IMPA.
     - https://www.youtube.com/playlist?list=PLo4jXE-LdDTQzrMfdOqRc_zZ9biromscy
+- @ Berkeley
+  - Mathematics 128A
+    - Spring 2014
+    - https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVDF1yWNfVhrGF5584gXTz
+  - Mathematics 128A
+    - Fall 2012
+    - https://archive.org/details/ucberkeley-webcast-PL5151EDC091F3F5F1
 - Chris Rycroft
   - Harvard Applied Math 205
     - https://www.youtube.com/playlist?list=PL43IQ71lgJytIqhiJ6v5lNswFKeQ9952K
@@ -99,6 +111,17 @@
     - https://www.math.stonybrook.edu/~scott/mat342.spr19/
     - https://echo360.org/section/86674816-5f0e-4cfe-bc48-2f5315bd36a3/home
 
+# Data Science
+
+- Data 8: Foundations of Data Science
+  - Berkeley
+  - Fall 2016
+    - https://www.youtube.com/playlist?list=PLEhMEyM9jSinvQd8FSFivvGdz0OfqSa4c
+  - http://data8.org/
+  - Fall 2020
+    - https://www.youtube.com/playlist?list=PL3juAj0fqNsI4HLvMJFnZDDabxAExG0wv
+  - https://www.youtube.com/c/Data8Berkeley/
+
 # EDP
 
 - Giovanni Bellettini
@@ -113,6 +136,20 @@
     - Curso de Doutorado no IMPA.
     - https://www.youtube.com/playlist?list=PLo4jXE-LdDTR5fauR27-hJVlsrLXYUnf0
 
+# Física Matemática
+
+- Carl Bender
+  - https://web.physics.wustl.edu/cmb/
+  - Mathematical Physics
+    - 2009
+    - https://pirsa.org/C09038
+  - Mathematical Physics
+    - 2010
+    - https://pirsa.org/C10034
+  - Mathematical Physics
+    - 2011
+    - https://pirsa.org/C11025
+
 # Otimização
 
 - Abel Siqueira
@@ -126,6 +163,9 @@
   - Métodos Computacionais de Otimização (2020).
     - Curso de Doutorado no IMPA.
     - https://www.youtube.com/playlist?list=PLo4jXE-LdDTRwlLJPADWPAs4zV_vQuS_C
+- Gabriel Haeser
+  - USP
+  - https://edisciplinas.usp.br/course/view.php?id=82344
 - Geoff Gordon
   - Optimization, CMU
     - https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU
@@ -209,3 +249,9 @@
   - http://www.math.ucsd.edu/~mleok/
 - https://www.youtube.com/channel/UC-aJ2eRtYF_uA5zm2IXzyKA
 - https://www.youtube.com/user/lesmiron/playlists
+- Parece que tem coisa legal aqui
+  - https://pirsa.org/
+  - https://pirsa.org/courses
+  - https://pirsa.org/C10027
+
+
