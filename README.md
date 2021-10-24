@@ -206,6 +206,10 @@
   - Optimization and Data Science
     - Summer 2020, Kiel University
     - https://www.youtube.com/playlist?list=PLfDxWuP6LuAlO1I5mrj3SAQLoIiYcuuTA
+- Tomaso Poggio and Lorenzo Rosasco
+  - MIT - Statistical Learning Theory and Applications (9.520/6.860)
+    - Fall 2018
+    - https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY
 - Wen Shen
   - Linear Programming (Math484, fall 2016)
     - https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3
